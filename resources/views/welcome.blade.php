@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-
+<div class="container">
 
 <h1 class="mt-5">Fund objective</h1>
 <p class="lead">Tiberium Investments focus on managed futures to have a less correlations to the world stock markets. 
@@ -22,4 +22,5 @@
 
     
     <div class="flourish-embed flourish-chart" data-src="visualisation/6820520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+</div>
 @endsection
