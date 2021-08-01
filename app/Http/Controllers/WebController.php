@@ -8,7 +8,11 @@ class WebController extends controller {
         return view('welcome');
     }
 
-    public function about() {
-        return view('about');
+    public function operations() {
+        return view('operations');
+    }
+
+    public function insights() {
+        return view('insights');
     }
 }
