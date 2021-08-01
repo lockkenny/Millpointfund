@@ -2,6 +2,7 @@
 
 @section('content')
 
+
 <h1 class="mt-5">Fund objective</h1>
 <p class="lead">Tiberium Investments focus on managed futures to have a less correlations to the world stock markets. 
     Our strategy is to have a clear and expected returns during unpredictable market conditions. </p>
