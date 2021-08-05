@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+@section('mytitle', 'Welcome')
 @section('content')
 <main>
 
@@ -15,7 +15,7 @@
 
         <div class="container">
           <div class="carousel-caption text-start">
-            <h1>Fund objective</h1>
+            <h1>What we do</h1>
             <p>Tiberium Investments focus on managed futures to have a less correlations to the world stock markets. Our strategy is to have a clear and expected returns during unpredictable market conditions. </p>
             
           </div>
@@ -26,7 +26,7 @@
 
         <div class="container">
           <div class="carousel-caption">
-            <h1>Trading Direction</h1>
+            <h1>Trading Strategies</h1>
             <p>We are using symmetrical rules for longs and shorts positions.
     Executed using breakout methods for entries and exits.</p>
             
@@ -37,7 +37,7 @@
         <svg class="bd-placeholder-img" width="100%" height="15%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
         <div class="container">
           <div class="carousel-caption text-end">
-            <h1>Risk Level</h1>
+            <h1>Risk Management</h1>
             <p>Our risks will naturally expand with success. We ran long term simulations before venture into new products.</p>
             
           </div>
@@ -60,29 +60,32 @@
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
   <div class="container marketing">
-
+  <h1>Latest from <span class="text-muted">Tiberium</span></h1>
     <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
-        <p>Some representative placeholder content for the three columns of text below the carousel. This is the first column.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <h2>Explore Tiberium</h2>
+        <div class="text-muted fst-italic mb-2">Data as of: 06 August 2021 </div>
+        <p>Our trading activities will update on a weekly and monthly basis.</p>
+        <p><a class="btn btn-outline-secondary" href="/operations">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
-        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <h2>The Copper Trade</h2>
+        <div class="text-muted fst-italic mb-2">Posted on August 6, 2021 by Kenny Lock</div>
+        <p>Over 1 year we tested simulations and monitoring price patterns.</p>
+        <p><a class="btn btn-outline-secondary" href="/insights">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
 
-        <h2>Heading</h2>
+        <h2>Our risks</h2>
+        <div class="text-muted fst-italic mb-2">Posted on August 1, 2021 by Kenny Lock</div>
         <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-        <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
+        <p><a class="btn btn-outline-secondary" href="#">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       
 
@@ -114,6 +117,6 @@
 
   
     </div><!-- /.container -->
-  
+									
 @endsection
 </main>

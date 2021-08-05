@@ -1,7 +1,8 @@
 @extends('layouts.app')
-
+@section('mytitle', 'Operations')
 @section('content')
 <div class="container">
+
 <h1 class="mt-5">Operations</h1>
 <p class="lead">Tiberium Investments focus on delivering</p>
     
