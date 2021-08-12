@@ -108,6 +108,58 @@
 
     <hr class="featurette-divider">
 
+      <div class="table-responsive">
+        <table class="table table-striped table-sm">
+          <thead>
+            <tr>
+              <th scope="col">Period</th>
+              <th scope="col">Returns</th>
+              <th scope="col">Annualized Standard Deviation</th>
+              <th scope="col">Max Drawdown</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1 Month</td>
+              <td>random</td>
+              <td></td>
+              <td>placeholder</td>
+            </tr>
+            <tr>
+              <td>3 Months</td>
+              <td>placeholder</td>
+              <td></td>
+              <td>visual</td>
+            </tr>
+            <tr>
+              <td>6 Months</td>
+              <td>placeholder</td>
+              <td></td>
+              <td>visual</td>
+            </tr>
+            <tr>
+              <td>YTD</td>
+              <td>placeholder</td>
+              <td>irrelevant</td>
+              <td>visual</td>
+            </tr>
+            <tr>
+              <td>3 years</td>
+              <td>placeholder</td>
+              <td>irrelevant</td>
+              <td>visual</td>
+            </tr>
+            <tr>
+              <td>5 years</td>
+              <td>placeholder</td>
+              <td>irrelevant</td>
+              <td>visual</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+<hr class="featurette-divider">
   <div class="row featurette">
     <div class="mt-5">
       <h2 class="featurette-heading">SECTOR <span class="text-muted">WEIGHTS</span></h2>
