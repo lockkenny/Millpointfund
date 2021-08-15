@@ -14,4 +14,5 @@
 <h1 class="mt-5">MONTHLY <span class="text-muted">- TOTAL RETURNS (%)</span></h1>
 <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <p class="fst-italic"><small>*Based on compound annual returns over the months</small></p>
+
 @endsection
