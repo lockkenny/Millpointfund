@@ -2,7 +2,6 @@
 @section('mytitle', 'Welcome')
 @section('content')
 <main>
-
   <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -72,8 +71,8 @@
         <p><a class="btn btn-outline-secondary" href="/operations">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
-        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
-
+        
+      <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="https://dl.dropboxusercontent.com/s/rng1bpbafgto5ov/DumpTruck.png?dl=0"  role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%"/>
         <h2>The Copper Trade</h2>
         <div class="text-muted fst-italic mb-2">Posted on August 6, 2021 by Kenny Lock</div>
         <p>Over 1 year we tested simulations and monitoring price patterns.</p>
@@ -106,63 +105,11 @@
       </div>
     </div>
 
-    <hr class="featurette-divider">
-
-      <div class="table-responsive">
-        <table class="table table-striped table-sm">
-          <thead>
-            <tr>
-              <th scope="col">Period</th>
-              <th scope="col">Returns</th>
-              <th scope="col">Annualized Standard Deviation</th>
-              <th scope="col">Max Drawdown</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>1 Month</td>
-              <td>random</td>
-              <td></td>
-              <td>placeholder</td>
-            </tr>
-            <tr>
-              <td>3 Months</td>
-              <td>placeholder</td>
-              <td></td>
-              <td>visual</td>
-            </tr>
-            <tr>
-              <td>6 Months</td>
-              <td>placeholder</td>
-              <td></td>
-              <td>visual</td>
-            </tr>
-            <tr>
-              <td>YTD</td>
-              <td>placeholder</td>
-              <td>irrelevant</td>
-              <td>visual</td>
-            </tr>
-            <tr>
-              <td>3 years</td>
-              <td>placeholder</td>
-              <td>irrelevant</td>
-              <td>visual</td>
-            </tr>
-            <tr>
-              <td>5 years</td>
-              <td>placeholder</td>
-              <td>irrelevant</td>
-              <td>visual</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-
 <hr class="featurette-divider">
   <div class="row featurette">
     <div class="mt-5">
       <h2 class="featurette-heading">SECTOR <span class="text-muted">WEIGHTS</span></h2>
+      <p class="fst-italic"><small>*We keep enough cash to cover large swings.</small></p>
     </div>
     <div class="flourish-embed flourish-chart" data-src="visualisation/6820520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
   </div>

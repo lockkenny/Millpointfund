@@ -17,4 +17,5 @@ use App\Http\Controllers\WebController;
 Route::get('/', [WebController::class, 'index']);
 Route::get('/operations', [WebController::class, 'operations']);
 Route::get('/insights', [WebController::class, 'insights']);
+Route::get('/terms', [WebController::class, 'terms']);
 

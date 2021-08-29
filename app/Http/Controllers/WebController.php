@@ -15,4 +15,8 @@ class WebController extends controller {
     public function insights() {
         return view('insights');
     }
+
+    public function terms() {
+        return view('terms');
+    }
 }
