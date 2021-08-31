@@ -72,7 +72,7 @@
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         
-      <img class="bd-placeholder-img rounded-circle" width="140" height="140" src="https://dl.dropboxusercontent.com/s/rng1bpbafgto5ov/DumpTruck.png?dl=0"  role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%"/>
+      <img class="bd-placeholder-img rounded-circle" width="320" height="240" src="https://dl.dropboxusercontent.com/s/rng1bpbafgto5ov/DumpTruck.png?dl=0"  role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%"/>
         <h2>The Copper Trade</h2>
         <div class="text-muted fst-italic mb-2">Posted on August 6, 2021 by Kenny Lock</div>
         <p>Over 1 year we tested simulations and monitoring price patterns.</p>
