@@ -83,6 +83,7 @@
         <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
         <p><a class="btn btn-outline-secondary" href="#">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
+
       
 
     <!-- START THE FEATURETTES -->
