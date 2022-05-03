@@ -1,19 +1,15 @@
 @extends('layouts.app')
 @section('mytitle', 'Operations')
 @section('content')
-<div class="container marketing">
+<div class="shadow-lg p-3 mb-5 container marketing">
 
-<h1 class="mt-5">Operations</h1>
+<h1 class="shadow-sm p-3 mb-2 mt-5">Operations</h1>
 <p class="lead">We are keeping track on our returns</p>
     
-<hr class="featurette-divider">
-
-<h2 class="featurette-heading">MONTHLY <span class="text-muted">- TOTAL RETURNS (%)</span></h2>
+<h2 class="shadow-sm p-3 mb-2 mt-5">MONTHLY <span class="text-muted">- TOTAL RETURNS (%)</span></h2>
 <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <p class="fst-italic"><small>*Based on compound monthly returns over the years</small></p>
 
-<hr class="featurette-divider">
-
-<h2 class="featurette-heading">Positions <span class="text-muted">- Database</span></h2>
+<h2 class="shadow-sm p-3 mb-2 mt-5">Track <span class="text-muted">- Record</span></h2>
 <div class="flourish-embed flourish-table" data-src="visualisation/9467778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 @endsection

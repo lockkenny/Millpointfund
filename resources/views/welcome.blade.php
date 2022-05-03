@@ -2,7 +2,7 @@
 @section('mytitle', 'Welcome')
 @section('content')
 <main>
-  <div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
+  <div id="myCarousel" class="shadow-lg carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
       <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -58,8 +58,11 @@
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="shadow-lg p-3 mb-5 container marketing">
+  <div class="row featurette">
+  <div class="shadow-sm p-1 mb-2 mt-1">
   <h1>Latest from <span class="text-muted">Tiberium</span></h1>
+</div>
     <!-- Three columns of text below the carousel -->
     <div class="row">
       <div class="col-lg-4">
@@ -83,17 +86,17 @@
         <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
         <p><a class="btn btn-outline-secondary" href="#">View details &raquo;</a></p>
       </div><!-- /.col-lg-4 -->
-
+</div>
       
 
     <!-- START THE FEATURETTES -->
 
     
 
-    <hr class="featurette-divider">
+    
 
     <div class="row featurette">
-      <div class="mt-5">
+      <div class="shadow-sm p-3 mb-2 mt-5">
         <h2 class="featurette-heading">ANNUAL PERFORMANCE - <span class="text-muted">TOTAL RETURN (%)</span></h2>
       </div>
       
@@ -103,9 +106,8 @@
       </div>
     </div>
 
-<hr class="featurette-divider">
   <div class="row featurette">
-    <div class="mt-5">
+    <div class="shadow-sm p-3 mb-2 mt-5">
       <h2 class="featurette-heading">SECTOR <span class="text-muted">WEIGHTS</span></h2>
       <p class="fst-italic"><small>*We keep enough cash to cover large swings.</small></p>
     </div>

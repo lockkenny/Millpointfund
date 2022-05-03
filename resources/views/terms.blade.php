@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('mytitle', 'Terms of Use')
 @section('content')
-<div class="container marketing">
+<div class="shadow-lg p-3 mb-5 container marketing">
 <h1 class="mt-5">Terms of Use</h1>
 <p><em>As published: August 17, 2021</em></p>
 <p>Please read these Terms of Use (“Terms of Use”) carefully. Tiberium Investments, LP, a registered investment adviser to the Tiberium Investments owns and operates the investment advisory portions of this website, https://Tiberium Investments-funds.com/ (“Site”). By registering for, logging into, visiting and/or otherwise using the Site in any way, you indicate that you understand and intend these Terms of Use to be the legal equivalent of a signed, written contract, and you accept these terms of use herein and agree to be legally bound by them. If you do not agree to these Terms and Conditions, please do not access this Site or any pages thereof.</p>
