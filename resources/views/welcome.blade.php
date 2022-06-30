@@ -1,120 +1,53 @@
 @extends('layouts.app')
 @section('mytitle', 'Welcome')
 @section('content')
-<main>
-  <div id="myCarousel" class="shadow-lg carousel slide" data-bs-ride="carousel">
-    <div class="carousel-indicators">
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
-      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
-    </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active" data-bs-interval="10000">
-        <svg class="bd-placeholder-img" width="100%" height="15%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
-        <div class="container">
-          <div class="carousel-caption text-start">
-            <h1>What we do</h1>
-            <p>Tiberium Investments focus on managed futures to have a less correlations to the world stock markets. Our strategy is to have a clear and expected returns during unpredictable market conditions. </p>
-            
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item" data-bs-interval="10000">
-        <svg class="bd-placeholder-img" width="100%" height="15%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
-
-        <div class="container">
-          <div class="carousel-caption">
-            <h1>Trading Strategies</h1>
-            <p>We are using symmetrical rules for longs and shorts positions.
-    Executed using breakout methods for entries and exits.</p>
-            
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item" data-bs-interval="10000">
-        <svg class="bd-placeholder-img" width="100%" height="15%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#777"/></svg>
-        <div class="container">
-          <div class="carousel-caption text-end">
-            <h1>Risk Management</h1>
-            <p>Our risks will naturally expand with success. We ran long term simulations before venture into new products.</p>
-            
-          </div>
-        </div>
-      </div>
-    </div>
-    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Previous</span>
-    </button>
-    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="visually-hidden">Next</span>
-    </button>
-  </div>
-
-
-  <!-- Marketing messaging and featurettes
-  ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
-
-  <div class="shadow-lg p-3 mb-5 container marketing">
-  <div class="row featurette">
-  <div class="shadow-sm p-1 mb-2 mt-1">
-  <h1>Latest from <span class="text-muted">Tiberium</span></h1>
-</div>
-    <!-- Three columns of text below the carousel -->
-    <div class="row">
-      <div class="col-lg-4">
-        
-        <h2>Explore Tiberium</h2>
-        <div class="text-muted fst-italic mb-2">Data as of: 06 August 2021 </div>
-        <p>Our trading activities will update on a weekly and monthly basis.</p>
-        <p><a class="btn btn-outline-secondary" href="/operations">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
-      <div class="col-lg-4">
-        
-        <h2>The Copper Trade</h2>
-        <div class="text-muted fst-italic mb-2">Posted on August 6, 2021 by Kenny Lock</div>
-        <p>Over 1 year we tested simulations and monitoring price patterns.</p>
-        <p><a class="btn btn-outline-secondary" href="/insights">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
-      <div class="col-lg-4">
-        
-        <h2>Our risks</h2>
-        <div class="text-muted fst-italic mb-2">Posted on August 1, 2021 by Kenny Lock</div>
-        <p>Another exciting bit of representative placeholder content. This time, we've moved on to the second column.</p>
-        <p><a class="btn btn-outline-secondary" href="#">View details &raquo;</a></p>
-      </div><!-- /.col-lg-4 -->
-</div>
-      
-
-    <!-- START THE FEATURETTES -->
 
     
-
-    
-
-    <div class="row featurette">
-      <div class="shadow-sm p-3 mb-2 mt-5">
-        <h2 class="featurette-heading">ANNUAL PERFORMANCE - <span class="text-muted">TOTAL RETURN (%)</span></h2>
-      </div>
-      
-      <div class="flourish-embed flourish-chart" data-src="visualisation/6856440"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-      <p class="fst-italic"><small>*Based on compound annual returns over the years</small></p>
-      
-      </div>
+  <!-- About section-->
+  <section id="about">
+  <div class="shadow-lg container1">
+    <div class="intro1">
+      <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
+      <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
     </div>
-
-  <div class="row featurette">
-    <div class="shadow-sm p-3 mb-2 mt-5">
-      <h2 class="featurette-heading">SECTOR <span class="text-muted">WEIGHTS</span></h2>
-      <p class="fst-italic"><small>*We keep enough cash to cover large swings.</small></p>
-    </div>
-    <div class="flourish-embed flourish-chart" data-src="visualisation/6820520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    <div class="shadow-lg container2">
+      <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Returns"></span></h2> 
+      <div class="p-5 mb-2 mt-1 flourish-embed flourish-chart" data-src="visualisation/6856440"><script src="https://public.flourish.studio/resources/embed.js"></script></div>    
   </div>
+    <div class="shadow-lg container3">
+    <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Sectors"></span></h2>
+    <div class="p-5 mb-2 mt-1 flourish-embed flourish-chart" data-src="visualisation/6820520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+  </div>
+    </section>
 
-  
-    </div><!-- /.container -->
-									
+<!-- Operations section-->
+    <section id="operations">
+      <div class="shadow-lg container4">
+        <div class="intro2">
+          <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
+          <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
+      <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+      <div class="shadow-lg container5">
+        <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Records"></span></h2>
+      <div class="flourish-embed flourish-table" data-src="visualisation/9467778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+    </div>
+    </section>
+
+    <!-- Insights section-->
+    <section id="insights">
+      <div class="shadow-lg container6">
+        <div class="intro3">
+          <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutInsights"></span></h1>
+        </div>
+      </div>
+    </secton>
+
 @endsection
-</main>
+@push('js')
+<script src="{{ asset('js/scrollspy.js') }}" ></script>
+<script src="{{ asset('js/typeit.js') }}" ></script>
+<script src="{{ asset('js/scroll.js') }}" ></script>
+<link href="{{ asset('css/custom.css') }}" rel="stylesheet" />
+@endpush
+

@@ -8,9 +8,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="/">About Us</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/operations">Operations</a></li>
-                        <li class="nav-item"><a class="nav-link" href="/insights">Insights</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">About Us</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#operations">Operations</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#insights">Insights</a></li>
                     </ul>
                 </div>
             </div>

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&display=swap');
+
+body{
+    font-family: 'Aldrich', sans-serif; 
+}
+
+.footer small{
+    color:azure;
+}
+
+strong {
+    color:gray;
+}
+
+#AboutTitle{
+    font-size: 250%;
+}
+
+.intro1{
+    padding-bottom: 30%;
+}
+
+#AboutOpt{
+    font-size: 250%;
+}
+
+#AboutInsights{
+    font-size: 250%;
+}
