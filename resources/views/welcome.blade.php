@@ -5,7 +5,7 @@
     
   <!-- About section-->
   <section id="about">
-  <div class="shadow-lg container1">
+  <div class="shadow-lg p-3 mb-2 mt-5 container1">
     <div class="intro1">
       <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
       <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
@@ -22,7 +22,7 @@
 
 <!-- Operations section-->
     <section id="operations">
-      <div class="shadow-lg container4">
+      <div class="shadow-lg p-3 mb-2 mt-5 container4">
         <div class="intro2">
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
           <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
@@ -36,7 +36,7 @@
 
     <!-- Insights section-->
     <section id="insights">
-      <div class="shadow-lg container6">
+      <div class="shadow-lg p-3 mb-2 mt-5 container6">
         <div class="intro3">
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutInsights"></span></h1>
         </div>
