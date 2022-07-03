@@ -7,10 +7,11 @@
   <section id="about">
   <div class="container">
     <div class="shadow-lg mb-2 mt-1 container1">
-      <div class="intro1">
-        <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
-        <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
-     </div>
+        <div class="intro1">
+          <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
+          <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
+      </div>
+    </div>
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->
       <div class="shadow-lg container2">
         <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Returns"></span></h2> 
@@ -30,7 +31,7 @@
         <!-- MONTHLY - TOTAL RETURNS (%) -->
         <div class="shadow-lg container4">      
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
-          <h2 class="p-3 mb-2 mt-5"><span id="AboutOpt1"></span></h2>
+          <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
           <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
         </div>  
       <!-- TRACK - RECORDS (PRESENT - 2019) -->    
