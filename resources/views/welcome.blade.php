@@ -7,7 +7,7 @@
   <section id="about">
   <div class="container-fluid">
     <div class="shadow-lg mb-2 mt-1 container1">
-        <div class="intro1">
+        <div class="intro1" class="bg-image shadow-2-strong">
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
           <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
       </div>
