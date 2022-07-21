@@ -28,14 +28,14 @@
 <!-- Operations section-->
     <section id="operations">
       <div class="container">
-        <!-- MONTHLY - TOTAL RETURNS (%) -->
         <div class="shadow-lg mb-2 mt-1 container4">
-         
+        <div class="intro1">
             <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
+            <!-- MONTHLY - TOTAL RETURNS (%) -->
             <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
-          
             <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
-          </div>  
+          </div> 
+        </div> 
       <!-- TRACK - RECORDS (PRESENT - 2019) -->    
         <div class="shadow-lg container5">
             <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Records"></span></h2>
