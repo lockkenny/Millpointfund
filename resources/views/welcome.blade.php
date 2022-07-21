@@ -5,7 +5,7 @@
     
   <!-- About section-->
   <section id="about">
-  <div class="container">
+  <div class="container-fluid">
     <div class="shadow-lg mb-2 mt-1 container1">
         <div class="intro1">
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
@@ -27,7 +27,7 @@
 
 <!-- Operations section-->
     <section id="operations">
-      <div class="container">
+      <div class="container-fluid">
         <div class="shadow-lg mb-2 mt-1 container4">
             <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
             <!-- MONTHLY - TOTAL RETURNS (%) -->
@@ -45,7 +45,7 @@
 
     <!-- Insights section-->
     <section id="insights">
-      <div class="container">
+      <div class="container-fluid">
         <div class="shadow-lg p-3 mb-2 mt-5 container6">
             <h1 class="shadow-sm p-3 mb-2 mt-1"><span id="AboutInsights"></span></h1>
         </div>

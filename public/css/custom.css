@@ -5,7 +5,7 @@ body{
 }
 
 .footer small{
-    color:azure;
+    color: #fff !important;
 }
 
 strong {
@@ -18,8 +18,16 @@ strong {
 
 .intro1{
     padding-bottom: 30%;
+    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../images/sg.jpg"); 
+    color:azure;
 }
 
+/* Height for devices larger than 576px */
+@media (min-width: 992px) {
+        #intro {
+          margin-top: -58.59px;
+        }
+    }
 #AboutOpt{
     font-size: 150%;
 }
