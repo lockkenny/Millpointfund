@@ -20,6 +20,7 @@ strong {
     padding-bottom: 30%;
     background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../images/sg.jpg"); 
     color:azure;
+    background-size: 100% 100%;
 }
 
 /* Height for devices larger than 576px */
