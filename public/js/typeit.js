@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
   .go();
 
   new TypeIt("#AboutOpt", {
-    strings: "Operations",
+    strings: "Operations Operations Operations",
     speed: 50,
     startDelay: 900,
     waitUntilVisible: true,
