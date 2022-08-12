@@ -48,6 +48,36 @@
       <div class="container-fluid">
         <div class="shadow-lg p-3 mb-2 mt-5 container6">
             <h1 class="shadow-sm p-3 mb-2 mt-1"><span id="AboutInsights"></span></h1>
+            <div class="row mb-2">
+              <div class="col-md-6">
+                <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                    <div class="col p-4 d-flex flex-column position-static">
+                    <strong class="d-inline-block mb-2 text-primary">My Thoughts</strong>
+                    <h3 class="mb-0">Review all major losses since 2018</h3>
+                    <div class="mb-1 text-muted">14 August 2022</div>
+                    <p class="card-text mb-auto">What went wrong.</p>
+                    <a href="#" class="stretched-link">Continue reading</a>
+                </div>
+                <div class="col-auto d-none d-lg-block">
+                  <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+                </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <strong class="d-inline-block mb-2 text-success">Index</strong>
+          <h3 class="mb-0">Why trade futures?</h3>
+          <div class="mb-1 text-muted">14 August 2022</div>
+          <p class="mb-auto">Is all about the leverage, let me explain.</p>
+          <a href="#" class="stretched-link">Continue reading</a>
+        </div>
+        <div class="col-auto d-none d-lg-block">
+          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
+
+        </div>
+      </div>
+    </div>
         </div>
       </div>
     </secton>
