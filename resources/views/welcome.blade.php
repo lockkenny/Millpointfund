@@ -7,7 +7,10 @@
   <section id="about">
   <div class="container-fluid">
     <div class="shadow-lg mb-2 mt-1 container1">
-        <div class="intro1" class="bg-image shadow-2-strong">
+        <div class="intro1">
+        <video autoplay loop muted playsinline>
+    <source src="https://dl.dropboxusercontent.com/s/56opjgai9r68qnq/sg.webm?dl=0" type="video/webm">
+</video>
           <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
           <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
       </div>
@@ -47,6 +50,10 @@
     <section id="insights">
       <div class="container-fluid">
         <div class="shadow-lg p-3 mb-2 mt-5 container6">
+            
+            <video autoplay loop muted playsinline>
+    <source src="https://dl.dropboxusercontent.com/s/k69l4dgmuoin5ty/Mine.webm?dl=0" type="video/webm">
+            </video>
             <h1 class="shadow-sm p-3 mb-2 mt-1"><span id="AboutInsights"></span></h1>
             <div class="row mb-2">
               <div class="col-md-6">

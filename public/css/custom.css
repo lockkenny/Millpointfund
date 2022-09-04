@@ -14,13 +14,17 @@ strong {
 
 #AboutTitle{
     font-size: 250%;
+    position: relative;
+}
+
+#AboutTitle1{
+    position: relative;
 }
 
 .intro1{
     padding-bottom: 30%;
-    background: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ),url("../images/sg.jpg"); 
     color:azure;
-    background-size: 100% 100%;
+    
 }
 
 /* Height for devices larger than 576px */
@@ -35,4 +39,22 @@ strong {
 
 #AboutInsights{
     font-size: 150%;
+    position: relative;
+    color:azure;
 }
+
+#insights{
+    color:azure;
+}
+
+video {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    filter: brightness(50%);
+    
+  }
+
