@@ -8,11 +8,12 @@
   <div class="container-fluid">
     <div class="shadow-lg mb-2 mt-1 container1">
         <div class="intro1">
-        <video autoplay loop muted playsinline>
-    <source src="https://dl.dropboxusercontent.com/s/56opjgai9r68qnq/sg.webm?dl=0" type="video/webm">
+       <video autoplay loop muted playsinline>
+    <source src="https://embed-ssl.wistia.com/deliveries/2dd00c7d40af84c93c882cfcccccfa0f7e586c05.bin">
 </video>
-          <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
-          <h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>
+
+<h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
+<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>   
       </div>
     </div>
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->
@@ -52,7 +53,7 @@
         <div class="shadow-lg p-3 mb-2 mt-5 container6">
             
             <video autoplay loop muted playsinline>
-    <source src="https://dl.dropboxusercontent.com/s/k69l4dgmuoin5ty/Mine.webm?dl=0" type="video/webm">
+    <source src="https://embed-ssl.wistia.com/deliveries/0e9b69e7417552ecbbf700e3e152113dd304f8a4.bin" type="video/webm">
             </video>
             <h1 class="shadow-sm p-3 mb-2 mt-1"><span id="AboutInsights"></span></h1>
             <div class="row mb-2">
