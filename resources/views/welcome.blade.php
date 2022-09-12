@@ -53,7 +53,7 @@
         <div class="shadow-lg p-3 mb-2 mt-5 container6">
             
             <video autoplay loop muted playsinline>
-    <source src="https://embed-ssl.wistia.com/deliveries/0e9b69e7417552ecbbf700e3e152113dd304f8a4.bin" type="video/webm">
+    <source src="https://embed-ssl.wistia.com/deliveries/d16d49f99fc3d252fb8ffaa84a6dfc94b85907f0.bin" type="video/webm">
             </video>
             <h1 class="shadow-sm p-3 mb-2 mt-1"><span id="AboutInsights"></span></h1>
             <div class="row mb-2">
