@@ -47,6 +47,18 @@ strong {
     color:azure;
 }
 
+#insights1{
+    position: relative;
+}
+
+#talk1{
+    position: relative;
+    color:black;
+    margin-top: 30%;
+
+
+}
+
 video {
     object-fit: cover;
     position: absolute;
@@ -57,4 +69,7 @@ video {
     filter: brightness(50%);
     
   }
+
+
+
 

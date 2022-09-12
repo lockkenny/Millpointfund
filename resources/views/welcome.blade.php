@@ -9,7 +9,7 @@
     <div class="shadow-lg mb-2 mt-1 container1">
         <div class="intro1">
        <video autoplay loop muted playsinline>
-    <source src="https://embed-ssl.wistia.com/deliveries/2dd00c7d40af84c93c882cfcccccfa0f7e586c05.bin">
+    <source src="https://embed-ssl.wistia.com/deliveries/2dd00c7d40af84c93c882cfcccccfa0f7e586c05.bin" >
 </video>
 
 <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
@@ -78,7 +78,7 @@
           <h3 class="mb-0">Why trade futures?</h3>
           <div class="mb-1 text-muted">14 August 2022</div>
           <p class="mb-auto">Is all about the leverage, let me explain.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <a href="/insights" class="stretched-link">Continue reading</a>
         </div>
         <div class="col-auto d-none d-lg-block">
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
