@@ -88,5 +88,15 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 
+new TypeIt("#AboutInsights1", {
+  strings: "Double Digit Returns",
+  speed: 50,
+  startDelay: 900,
+  waitUntilVisible: true,
+  afterComplete: function (instance) {
+    instance.destroy();
+  }
+})
+.go();
 
 

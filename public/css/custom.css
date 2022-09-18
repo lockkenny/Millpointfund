@@ -39,7 +39,7 @@ strong {
 
 #AboutInsights{
     font-size: 150%;
-    position: relative;
+    position: absolute;
     color:azure;
 }
 
@@ -49,14 +49,21 @@ strong {
 
 #insights1{
     position: relative;
+    padding-top:30%;  
+    color:black;
 }
 
 #talk1{
     position: relative;
     color:black;
-    margin-top: 30%;
+    padding: 3%;
+    background-color: #fff;
+    
+}
 
-
+#AboutInsights1{
+    font-size: 150%;
+    position: absolute;
 }
 
 video {

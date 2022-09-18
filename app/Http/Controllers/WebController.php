@@ -12,8 +12,12 @@ class WebController extends controller {
         return view('operations');
     }
 
-    public function insights() {
-        return view('insights');
+    public function insights1() {
+        return view('insights1');
+    }
+
+    public function insights2() {
+        return view('insights2');
     }
 
     public function terms() {
