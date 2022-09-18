@@ -75,7 +75,7 @@
           <h3 class="mb-0">Double Digit Returns</h3>
           <div class="mb-1 text-muted">14 August 2022</div>
           <p class="mb-auto">Is all about the leverage</p>
-          <a href="/insights1" class="stretched-link">Continue reading</a>
+          <a href="/insights2" class="stretched-link">Continue reading</a>
         </div>
       </div>
     </div>

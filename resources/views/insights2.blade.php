@@ -11,9 +11,9 @@
 </secton>
 
 <section id="talk1">
-<div class="card flex-md-row mb-4 box-shadow h-md-250">
-            <div class="card-body d-flex flex-column align-items-start">
-              <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutInsights1"></span></h1>
+<div class="container-fluid">
+            <div class="container1">
+              <h1 class="insights">Double Digit Returns<span id="AboutInsights1"></span></h1>
               <div class="mb-1 text-muted">Nov 12 2022</div>
               <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.This is a wider card with supporting text below as a natural lead-in 
                 to additional content.This is a wider card with supporting text below as a natural lead-in to additional content.This is a wider card with supporting text below as a natural lead-in to additional content.This is a wider card with supporting text below as a natural lead-in to additional content.
