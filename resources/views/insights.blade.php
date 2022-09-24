@@ -28,6 +28,9 @@
            Kenny blew up his trading account twice, first at 2015 and 2018. Since then, the fund has doubled. </p> 
           <br>
           <p>Furthermore Kenny work full time as an IT support for various industries, from Casinos to Petrol Chemicals. During his teenage years he assambled computers, system clean up and hosted LAN games at friends house. </p>
+          <iframe src="https://fast.wistia.net/embed/iframe/eek8qddhki?" width="640" height="480" frameborder="0"></iframe>
+          <br><small><i>Date: 2006, LAN with 2 childhood friends, Perth Western Australia</i></small>
+          <br>
           <br>
           <p>Kenny graduated with a BIT in Interactive Technology and Game Design from James Cook University in 2012. His final year project was to team up to build a 3D Sci-Fi hack and slash game. </p>
       </article>
