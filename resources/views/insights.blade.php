@@ -3,7 +3,7 @@
 @section('content')
 
 <section id="insights1">
-<div class="container-fluid">
+<div class="container-fluid" id='insightsvid'>
   <video autoplay loop muted playsinline>
                 <source src="https://embed-ssl.wistia.com/deliveries/99492d390a6a2d270dc071c870c2f708093e591f.bin" type="video/webm">
   </video>
@@ -20,28 +20,36 @@
         <p class="blog-post-meta">Updated: 22/09/2022</p>
         <!-- Round profile Pic -->
         <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          
-        <p>"No harm in trying, because it may still be an uplifting to you."</p>
+        <br> 
+        <small><i>"No harm in trying, because it may still be uplifting to you."</i></small>
         <hr>
-        <p>A global macro trader and investor for 14 years, Kenny Lock founded Tiberium out of a single bedroom shared with 7 roommates in Singapore. 
-           His trading stratagies involves between highly leverage products and conservertive executions. His first investment was right after the GFC by speculating penny mining stocks listed in Australia. He dived into commodities futures when he got his first job, trading US Wheat.<br>
-           Kenny blew up his trading account twice, first at 2015 and 2018. Since then, the fund has doubled. </p> 
+        <p>A global macro trader and investor for 14 years, I founded Kenny Fund to self-evaluate my trading performance. 
+            My trading strategies involve highly leveraged products and conservative executions. My first investment was right after the GFC by speculating penny mining stocks listed in Australia. I dived into commodities futures when I got my first job.
+            I blew up my trading account twice, first in 2015 and the second in 2018. Since then, the fund has doubled. </p> 
           <br>
-          <p>Furthermore Kenny work full time as an IT support for various industries, from Casinos to Petrol Chemicals. During his teenage years he assambled computers, system clean up and hosted LAN games at friends house. </p>
-          <iframe src="https://fast.wistia.net/embed/iframe/eek8qddhki?" width="640" height="480" frameborder="0"></iframe>
-          <br><small><i>Date: 2006, LAN with 2 childhood friends, Perth Western Australia</i></small>
+          <p>Furthermore, I work full time as an IT support for various industries, from Casinos to Petrol Chemicals. During my teenage years, I assembled computers and hosted LAN games.</p>
+          <div class="blog-post" id='LAN'>
+          <video autoplay loop muted playsinline>
+          <source src="https://embed-ssl.wistia.com/deliveries/a324b53e081a2d34559fe1bb04f6400528e10b54.bin" type="video/webm">
+          </video>
+          <br><small><i>Date: Gaming with 2 childhood friends, Perth Western Australia, 2006</i></small>
+          </div>
           <br>
           <br>
-          <p>Kenny graduated with a BIT in Interactive Technology and Game Design from James Cook University in 2012. His final year project was to team up to build a 3D Sci-Fi hack and slash game. </p>
+          <p>I graduated with a BIT in Interactive Technology and Game Design from James Cook University in 2012.</p>
       </article>
 
       <article class="blog-post" id='post2'>
-        <h2 class="blog-post-title mb-1">Double Digit Returns</h2>
+        <h2 class="blog-post-title mb-1">Trading Singapore Index</h2>
         <p class="blog-post-meta">Updated: 18/09/2022</p>
           
-        <p>This blog post shows a few different types of content that’s supported and styled with Bootstrap. Basic typography, lists, tables, images, code, and more are all supported as expected.</p>
+        <small><i>"All things are difficult before they are easy." - Thomas Fuller</i></small>
         <hr>
-        <p>This is some additional paragraph placeholder content. It has been written to fill the available space and show how a longer snippet of text affects the surrounding content. We'll repeat it often to keep the demonstration flowing, so be on the lookout for this exact same string of text.</p>
+        <p>I joined my colleagues for lunch, and they began sharing a topic about investing. I listened to what they had invested and continued to nibble my meal.</p>
+        <br>
+        <p>After one round of the table, it was my turn. "Singapore index", I replied bluntly. They were baffled. "Why not the S&P or the Nasdaq?" I know they have done their homework. In the past five years, the return was 11% for the S&P 500 and -0.61% for Singapore. The table was silent, waiting for my reason. I swallowed my food and cleared my throat. "I trade Singapore Index Futures".</p>
+        <p>There was a minute pause from everyone, not sure they knew about the Futures or the derivatives markets. Many will think of investing in stocks, real estate and retirement plans. </P>
+        <p>The derivatives market is a whole different world, derived from another asset. If you want to invest in Singapore, you can buy the MSCI Singapore ETF. MSCI also create a Future for that. SGX (Singapore Exchange) is the host for the participants to trade. A derivative product allows traders to "short" to gain when prices go down. For the majority of the people who bought ETFs or stocks only can wish for their prices to rise. </p>
       </article>
 
     </div>

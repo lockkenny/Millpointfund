@@ -77,6 +77,18 @@ video {
     
   }
 
+#LAN video{
+    position: relative;
+    border-radius: 0px;
+    filter: brightness(100%);
+}
+
+#insightsvid video{
+    position: absolute;
+    height: 400px;
+    filter: brightness(50%);
+}
+
   
   #archives a:hover { text-shadow: 0 0 5px; }
 
