@@ -17,7 +17,20 @@ strong {
     position: relative;
 }
 
-#AboutTitle1{
+/* Info in the About Video */
+#AboutTitle1 {
+    position: relative;
+}
+
+#AboutTitle2{
+    position: relative;
+}
+
+#Statistics1{
+    position: relative;
+}
+
+#Statistics2{
     position: relative;
 }
 

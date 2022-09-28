@@ -13,7 +13,10 @@
 </video>
 
 <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
-<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>   
+<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>  
+<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle2"></span></h2>
+<h1 class="p-3 mb-2 mt-1"><span id="Statistics1"></span></h1> 
+<h2 class="p-3 mb-2 mt-1"><span id="Statistics2"></span></h2> 
       </div>
     </div>
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->

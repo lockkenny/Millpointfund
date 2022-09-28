@@ -23,20 +23,19 @@
         <br> 
         <small><i>"No harm in trying, because it may still be uplifting to you."</i></small>
         <hr>
-        <p>A global macro trader and investor for 14 years, I founded Kenny Fund to self-evaluate my trading performance. 
+        <p>A global macro trader and investor for 14 years, I founded Mill Point Fund to self-evaluate my trading performance. 
             My trading strategies involve highly leveraged products and conservative executions. My first investment was right after the GFC by speculating penny mining stocks listed in Australia. I dived into commodities futures when I got my first job.
             I blew up my trading account twice, first in 2015 and the second in 2018. Since then, the fund has doubled. </p> 
           <br>
           <p>Furthermore, I work full time as an IT support for various industries, from Casinos to Petrol Chemicals. During my teenage years, I assembled computers and hosted LAN games.</p>
+          <p>I graduated with a BIT in Interactive Technology and Game Design from James Cook University in 2012.</p>
           <div class="blog-post" id='LAN'>
           <video autoplay loop muted playsinline>
           <source src="https://embed-ssl.wistia.com/deliveries/a324b53e081a2d34559fe1bb04f6400528e10b54.bin" type="video/webm">
           </video>
-          <br><small><i>Date: Gaming with 2 childhood friends, Perth Western Australia, 2006</i></small>
+          <br><small><i>Gaming with 2 childhood friends, Perth Western Australia, 2006</i></small>
           </div>
           <br>
-          <br>
-          <p>I graduated with a BIT in Interactive Technology and Game Design from James Cook University in 2012.</p>
       </article>
 
       <article class="blog-post" id='post2'>
