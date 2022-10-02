@@ -21,8 +21,6 @@
     <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
     <!-- Import ScrollReveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
-     <!-- Custom CSS -->
-    <link rel="stylesheet" type="text/css" href="/css/custom.css">
     @stack('js')
   
     <title>Mill Point Fund</title>
