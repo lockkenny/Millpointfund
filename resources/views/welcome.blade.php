@@ -90,7 +90,7 @@
 @push('js')
 <script src="{{ asset('js/scrollspy.js') }}" ></script>
 <script src="{{ asset('js/typeit.js') }}" ></script>
-<script src="{{ asset('js/scroll.js') }}" ></script>
+
 
 @endpush
 
