@@ -21,8 +21,11 @@
     <script src="https://unpkg.com/typeit@8.7.0/dist/index.umd.js"></script>
     <!-- Import ScrollReveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
-    <link href="https://drive.google.com/uc?export=view&id=1K8QOQvTGmRKMHuObOe_f0dfkiLVjXx4q" rel="stylesheet">
-    <script src="https://drive.google.com/uc?export=view&id=1yqOxIv9Vf63vDM6mr-347l9jdqMCBpUI"></script>
+    <!-- Custom files -->
+    <link href="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21324&authkey=AHOMqUxtP0InNN0" rel="stylesheet">
+    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21325&authkey=AMC3XvJEURJ2m54"></script>
+    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21327&authkey=AJYmK1diRUefINI"></script>
+    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21326&authkey=AAP9T4eiFSwXdtc"></script>
     @stack('js')
   
     <title>Mill Point Fund</title>
