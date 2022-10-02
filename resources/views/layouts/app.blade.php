@@ -22,6 +22,7 @@
     <!-- Import ScrollReveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
     <link href="https://drive.google.com/uc?export=view&id=1K8QOQvTGmRKMHuObOe_f0dfkiLVjXx4q" rel="stylesheet">
+    <script src="https://drive.google.com/uc?export=view&id=1yqOxIv9Vf63vDM6mr-347l9jdqMCBpUI"></script>
     @stack('js')
   
     <title>Mill Point Fund</title>
