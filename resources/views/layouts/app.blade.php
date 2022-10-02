@@ -22,13 +22,13 @@
     <!-- Import ScrollReveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
     <!-- Custom CSS -->
-    <link href="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21324&authkey=AHOMqUxtP0InNN0" rel="stylesheet">
+    <link href="https://cdn.matix-media.net/dd/28d9987c" rel="stylesheet">
     <!-- Custom TypeIt -->
-    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21325&authkey=AMC3XvJEURJ2m54"></script>
+    <script src="https://cdn.matix-media.net/dd/307a31ba"></script>
     <!-- Custom Scroll -->
-    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21327&authkey=AJYmK1diRUefINI"></script>
+    <script src="https://cdn.matix-media.net/dd/180ba440"></script>
     <!-- Custom Scrollspy -->
-    <script src="https://onedrive.live.com/download?cid=4CD56B7D6B8DA4E2&resid=4CD56B7D6B8DA4E2%21326&authkey=AAP9T4eiFSwXdtc"></script>
+    <script src="https://cdn.matix-media.net/dd/1f797a5d"></script>
 
   
     <title>Mill Point Fund</title>
