@@ -91,6 +91,6 @@
 <script src="{{ asset('js/scrollspy.js') }}" ></script>
 <script src="{{ asset('js/typeit.js') }}" ></script>
 <script src="{{ asset('js/scroll.js') }}" ></script>
-<link href="{{ asset('css/custom.css') }}" rel="stylesheet" />
+
 @endpush
 
