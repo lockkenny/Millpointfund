@@ -9,9 +9,6 @@
         "dest": "/api/index.php"
     }],
 
-    "builds": [
-        { "src": "*.js", "use": "@vercel/node" }
-      ],
     "env": {
         "APP_NAME": "Mill Point",
         "APP_ENV": "production",
