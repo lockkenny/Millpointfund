@@ -1,9 +1,9 @@
 {
     "version": 2,
-    "functions": {
-        "api/*.php": { "runtime": "vercel-php@0.4.0" },
-        "api/*.js": { "runtime": "LambdaRuntime" }
-    },
+    "builds": [
+        { "src": "/api/index.php", "use": "vercel-php@0.5.2" },
+        { "src": "/public/**", "use": "@vercel/static" }
+    ],
     "routes": [{
         "src": "/(.*)",
         "dest": "/api/index.php"
