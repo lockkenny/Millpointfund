@@ -7,10 +7,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="" />
     <meta name="author" content="Kenny Lock">
-    <link rel="apple-touch-icon" href="https://dl.dropboxusercontent.com/s/821z4gj1n45xof7/apple-touch-icon.png?dl=0" sizes="180x180">
-    <link rel="icon" href="https://dl.dropboxusercontent.com/s/8qiigd7as9f8bks/favicon-32x32.png?dl=0" sizes="32x32" type="image/png">
-    <link rel="icon" href="https://dl.dropboxusercontent.com/s/juxa2u8bxyewags/favicon-16x16.png?dl=0" sizes="16x16" type="image/png">
-    <link rel="shortcut icon" href="https://dl.dropboxusercontent.com/s/igjo7eqw143vn5j/favicon.ico?dl=0"  type='image/x-icon'>
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" href="images/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="images/favicon-16x16.png" sizes="16x16" type="image/png">
+    <link rel="shortcut icon" href="images/favicon.ico"  type='image/x-icon'>
     <title>@yield('mytitle') | Mill Point</title>
     
     <!-- Import Bootstrap -->
