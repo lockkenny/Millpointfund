@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', function (event) {
 
     ScrollReveal({ reset: true, useDelay: 'onload' });
-    ScrollReveal().reveal('.container1', { duration:2000, origin: 'top', distance:'5px' });
-    ScrollReveal().reveal('.container2', { duration:2000, origin: 'left', distance:'5px' });
-    ScrollReveal().reveal('.container3', { duration:2000, origin: 'right', distance:'5px' });
-    ScrollReveal().reveal('.container4', { duration:2000, origin: 'left', distance:'5px' });
-    ScrollReveal().reveal('.container5', { duration:2000, origin: 'right', distance:'5px' });
-    ScrollReveal().reveal('.container6', { duration:2000, origin: 'bottom', distance:'5px' });
+    ScrollReveal().reveal('.container1', { duration:2000, delay:375, origin: 'top', distance:'1%' });
+    ScrollReveal().reveal('.container2', { duration:2000, delay:375, origin: 'left', distance:'1%' });
+    ScrollReveal().reveal('.container3', { duration:2000, delay:375, origin: 'right', distance:'1%' });
+    ScrollReveal().reveal('.container4', { duration:2000, delay:375, origin: 'left', distance:'1%' });
+    ScrollReveal().reveal('.container5', { duration:2000, delay:375, origin: 'right', distance:'1%' });
+    ScrollReveal().reveal('.container6', { duration:2000, delay:375, origin: 'bottom', distance:'1%' });
 
 });

@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   new TypeIt('#AboutTitle1', {
     speed: 10,
     startDelay: 2000,
-    strings: 'Mill Point Fund focuses on managed futures using technical analysis to have above average returns during unpredictable market conditions.',
+    strings: ['Mill Point Fund focuses on managed futures using technical analysis to have above average returns during unpredictable market conditions.'],
     afterComplete: (instance) => {
       instance.destroy();
       new TypeIt('#AboutTitle2', {

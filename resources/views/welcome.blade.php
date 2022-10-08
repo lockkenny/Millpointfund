@@ -6,17 +6,17 @@
   <!-- About section-->
   <section id="about">
   <div class="container-fluid">
-    <div class="shadow-lg mb-2 mt-1 container1">
+    <div class="shadow-lg mb-5 mt-1 container1">
         <div class="intro1">
        <video autoplay loop muted playsinline>
     <source src="https://embed-ssl.wistia.com/deliveries/2dd00c7d40af84c93c882cfcccccfa0f7e586c05.bin" >
 </video>
 
-<h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutTitle"></span></h1>
-<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle1"></span></h2>  
-<h2 class="p-3 mb-2 mt-1"><span id="AboutTitle2"></span></h2>
-<h1 class="p-3 mb-2 mt-1"><span id="Statistics1"></span></h1> 
-<h2 class="p-3 mb-2 mt-1"><span id="Statistics2"></span></h2> 
+<h1 class="shadow-sm p-5 mb-5 mt-5"><span id="AboutTitle"></span></h1>
+<h2 class="p-4 mb-5 mt-5"><span id="AboutTitle1"></span></h2>  
+<h2 class="p-4 mb-5 mt-5"><span id="AboutTitle2"></span></h2>
+<h1 class="p-3 mb-5 mt-5"><span id="Statistics1"></span></h1> 
+<h2 class="p-3 mb-5 mt-5"><span id="Statistics2"></span></h2> 
       </div>
     </div>
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->
@@ -36,7 +36,7 @@
     <section id="operations">
       <div class="container-fluid">
         <div class="shadow-lg mb-2 mt-1 container4">
-            <h1 class="shadow-sm p-3 mb-2 mt-5"><span id="AboutOpt"></span></h1>
+            <h1 class="shadow-sm p-5 mb-2 mt-5"><span id="AboutOpt"></span></h1>
             <!-- MONTHLY - TOTAL RETURNS (%) -->
             <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
             <div class="flourish-embed flourish-chart" data-src="visualisation/6971396"><script src="https://public.flourish.studio/resources/embed.js"></script></div>  
@@ -67,7 +67,7 @@
                     <h3 class="mb-0">Who is Kenny?</h3>
                     <div class="mb-1 text-muted">18 August 2022</div>
                     <p class="card-text mb-auto">"Resolving IT headaches and inspired trader"</p>
-                    <a href="/insights#post1" class="stretched-link">Continue reading</a>
+                    <a href="/insights#insights1" class="stretched-link">Continue reading</a>
                 </div>
             </div>
           </div>

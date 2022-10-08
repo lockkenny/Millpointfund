@@ -16,7 +16,7 @@
 <div class="row g-5">
     <div class="col-md-8">
       <article class="blog-post" id='post1'>
-        <h2 class="blog-post-title mb-1">Who is Kenny?</h2>
+        <h2 class="blog-post-title ">Who is Kenny?</h2>
         <p class="blog-post-meta">Updated: 22/09/2022</p>
         <!-- Round profile Pic -->
         <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
@@ -64,7 +64,7 @@
           <h4 class="fst-italic">Archives</h4>
           <ol class="list-unstyled mb-0">
           <h6 class="fst-italic">2022</h6>
-            <li class="nav-item"><a class="nav-link" href="#post1">Who is Kenny</a></li>
+            <li class="nav-item"><a class="nav-link" href="#insights1">Who is Kenny</a></li>
             <li class="nav-item"><a class="nav-link" href="#post2">Double Digit Returns</a></li>
           </ol>
         </div>
