@@ -12,36 +12,14 @@ strong {
     color:gray;
 }
 
-#AboutTitle{
-    font-size: 250%;
-    position: relative;
-    
-}
-
-/* Info in the About Video */
-#AboutTitle1 {
+/* Text over Video */
+#AboutTitle {
     position: relative; 
     
 }
 
-#Statistics{
-    position: absolute;
-}
-
-#AboutTitle2{
-    position: relative;
-}
-
-#Statistics1{
-    position: absolute;
-}
-
-#Statistics2{
-    position: absolute;
-}
-
 .intro1{
-    padding-bottom: 30%;
+    padding-bottom: 23%;
     color:azure;
     
 }
@@ -67,7 +45,7 @@ strong {
 }
 
 #insights1{
-    position: relative;
+    position: absolute;
     padding-top:30%;  
     color:black;
 }

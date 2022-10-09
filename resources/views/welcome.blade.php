@@ -10,14 +10,12 @@
        <video autoplay loop muted playsinline>
     <source src="https://embed-ssl.wistia.com/deliveries/2dd00c7d40af84c93c882cfcccccfa0f7e586c05.bin" >
 </video>
-
+<!-- Description over video-->
 <h1 class="shadow-sm p-5 mb-5 mt-5"><span id="AboutTitle"></span></h1>
-<h2 class="p-4 mb-5 mt-5"><span id="AboutTitle1"></span></h2>  
-<h2 class="p-4 mb-5 mt-5"><span id="AboutTitle2"></span></h2>
-<h1 class="p-3 mb-5 mt-5"><span id="Statistics1"></span></h1> 
-<h2 class="p-3 mb-5 mt-5"><span id="Statistics2"></span></h2> 
+
       </div>
     </div>
+
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->
       <div class="shadow-lg container2">
         <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Returns"></span></h2> 
