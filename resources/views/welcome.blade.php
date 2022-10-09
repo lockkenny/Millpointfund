@@ -1,8 +1,7 @@
 @extends('layouts.app')
 @section('mytitle', 'Welcome')
 @section('content')
-
-    
+@include('layouts.modal')
   <!-- About section-->
   <section id="about">
   <div class="container-fluid">
@@ -67,7 +66,7 @@
                     <h3 class="mb-0">Who is Kenny?</h3>
                     <div class="mb-1 text-muted">18 August 2022</div>
                     <p class="card-text mb-auto">"Resolving IT headaches and inspired trader"</p>
-                    <a href="/insights#insights1" class="stretched-link">Continue reading</a>
+                    <a href="/insights#insights1" class="stretched-link" data-bs-toggle="modal" data-bs-target="#ModalLink1">Continue reading</a>
                 </div>
             </div>
           </div>
@@ -78,7 +77,7 @@
           <h3 class="mb-0">Trading Singapore Index</h3>
           <div class="mb-1 text-muted">14 August 2022</div>
           <p class="mb-auto">Is all about the leverage</p>
-          <a href="/insights#post2" class="stretched-link">Continue reading</a>
+          <a href="/insights#post2" class="stretched-link" data-bs-toggle="modal" data-bs-target="#ModalLink2">Continue reading</a>
         </div>
       </div>
     </div>

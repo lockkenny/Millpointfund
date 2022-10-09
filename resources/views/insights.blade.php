@@ -7,16 +7,14 @@
   <video autoplay loop muted playsinline>
                 <source src="https://embed-ssl.wistia.com/deliveries/99492d390a6a2d270dc071c870c2f708093e591f.bin" type="video/webm">
   </video>
-  
-      </div>
+</div>
 </secton>
 
 <section id="talk1">
-
 <div class="row g-5">
     <div class="col-md-8">
       <article class="blog-post" id='post1'>
-        <h2 class="blog-post-title ">Who is Kenny?</h2>
+        <h2 class="blog-post-title">Who is Kenny?</h2>
         <p class="blog-post-meta">Updated: 22/09/2022</p>
         <!-- Round profile Pic -->
         <img class="rounded-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
