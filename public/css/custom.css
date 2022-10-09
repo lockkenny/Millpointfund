@@ -14,18 +14,22 @@ strong {
 
 #AboutTitle{
     font-size: 250%;
-    position: absolute;
+    position: relative;
     
 }
 
 /* Info in the About Video */
 #AboutTitle1 {
-    position: absolute; 
+    position: relative; 
     
 }
 
-#AboutTitle2{
+#Statistics{
     position: absolute;
+}
+
+#AboutTitle2{
+    position: relative;
 }
 
 #Statistics1{
@@ -37,7 +41,7 @@ strong {
 }
 
 .intro1{
-    padding-bottom: 13%;
+    padding-bottom: 30%;
     color:azure;
     
 }
@@ -105,6 +109,7 @@ video {
 
   
   #archives a:hover { text-shadow: 0 0 5px; }
+  a:link { text-decoration: none; }
 
   /* Disclaimer Modal */
   .modal-sheet .modal-dialog {

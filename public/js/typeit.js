@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function () {
               new TypeIt('#Statistics2', {
                 speed: 10,
                 startDelay: 400,
-                strings: ['Annualised Return (%) N/A','2022 Return (%) N/A','2021 Return (%) 14.91','Last 3 Months (%) N/A','Best Monthly Return (%) 47.74',"Worst Monthly Return (%) -45.95"],
+                strings: ['Annualised Return (%) N/A','2022 Return (%) N/A','2021 Return (%) 14.91','Last 3 Months (%) 11.63','Best Monthly Return (%) 47.74',"Worst Monthly Return (%) -45.95"],
               }).go();
             }
           }).go();
