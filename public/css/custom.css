@@ -14,19 +14,23 @@ strong {
 
 /* Text over Video */
 #AboutTitle {
-    position: relative; 
-    
+    position: absolute; 
 }
 
 .intro1{
-    padding-bottom: 23%;
+    padding-bottom: 900px;
     color:azure;
     
 }
 
+.container1 .container2 .container3 .container4 .container5{
+    padding-top:30%;
+    padding-bottom:30%; 
+}
+
 /* Height for devices larger than 576px */
 @media (min-width: 992px) {
-        #intro {
+        #intro1 {
           margin-top: -58.59px;
         }
     }
