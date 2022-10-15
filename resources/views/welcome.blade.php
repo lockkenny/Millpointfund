@@ -16,13 +16,25 @@
       </div>
     </div>
 
+     <!-- STATISTICS-->
+     <div class="shadow-sm p-5 mb-3 mt-1 container2">
+      <div class="row mb-2">
+        <div class="col-md-6">
+        <h2 class="p-3 mb-2 mt-5"><span id="Statistics"></span></h2> 
+        </div>
+        <div class="col-md-6">
+          <h2 class="p-3 mb-2 mt-5"><span id="Risks"></span></h2> 
+        </div>
+      </div>
+      </div>
+
      <!-- ANNUAL PERFORMANCE - TOTAL RETURN (%)-->
-      <div class="shadow-lg container2">
+      <div class="shadow-lg container3">
         <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Returns"></span></h2> 
         <div class="flourish-embed flourish-chart" data-src="visualisation/6856440"><script src="https://public.flourish.studio/resources/embed.js"></script></div>    
       </div>
       <!-- SECTOR WEIGHTS -->
-        <div class="shadow-lg container3">
+        <div class="shadow-lg container4">
           <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Sectors"></span></h2>
           <div class="flourish-embed flourish-chart" data-src="visualisation/6820520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
        </div>
@@ -32,7 +44,7 @@
 <!-- Operations section-->
     <section id="operations">
       <div class="container-fluid">
-        <div class="shadow-lg mb-2 mt-1 container4">
+        <div class="shadow-lg mb-2 mt-1 container5">
             <h1 class="shadow-sm p-5 mb-2 mt-5"><span id="AboutOpt"></span></h1>
             <!-- MONTHLY - TOTAL RETURNS (%) -->
             <h2 class="p-3 mb-2 mt-1"><span id="AboutOpt1"></span></h2>
@@ -40,7 +52,7 @@
         </div> 
       
       <!-- TRACK - RECORDS (PRESENT - 2019) -->    
-        <div class="shadow-lg container5">
+        <div class="shadow-lg container6">
             <h2 class="shadow-sm p-3 mb-2 mt-5"><span id="Records"></span></h2>
             <div class="flourish-embed flourish-table" data-src="visualisation/9467778"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
         </div>
@@ -50,7 +62,7 @@
     <!-- Insights section-->
     <section id="insights">
       <div class="container-fluid">
-        <div class="shadow-lg p-3 mb-2 mt-5 container6">
+        <div class="shadow-lg p-3 mb-2 mt-5 container7">
             
             <video autoplay loop muted playsinline>
     <source src="https://embed-ssl.wistia.com/deliveries/d16d49f99fc3d252fb8ffaa84a6dfc94b85907f0.bin" type="video/webm">

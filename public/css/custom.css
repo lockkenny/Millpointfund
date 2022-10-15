@@ -18,9 +18,14 @@ strong {
 }
 
 .intro1{
-    padding-bottom: 900px;
+    padding-bottom: 400px;
+    margin-bottom:100px;
     color:azure;
     
+}
+
+.Statistics{
+    margin-top: 100px;
 }
 
 .container1 .container2 .container3 .container4 .container5{
