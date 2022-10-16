@@ -54,7 +54,7 @@
     <div class="col-md-4" id='archives'>
       <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
-          <script src="./js/quotes.js"></script>
+          <script src="js/quotes.js"></script>
           <script type="text/javascript" src="http://feeds.financialcontent.com/JSQuote?Ticker=COPPER+EWS+aud/usd" ></script>
         </div>
         <div class="p-4">
