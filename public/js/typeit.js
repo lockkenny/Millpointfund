@@ -9,20 +9,6 @@ document.addEventListener("DOMContentLoaded", function () {
   })
   .go();
 
-  new TypeIt('#Statistics', {
-    speed: 10,
-    startDelay: 2000,
-    waitUntilVisible: true,
-    strings: ["<span style='font-size: 50px;'>"+'Strategies'+"</span>",'Main: Global Macro','Secondary: Trend Following',"\n","<span style='font-size: 50px;'>"+'Statistics'+"</span>",'Annualised Return (%) N/A','2022 Return (%) N/A','2021 Return (%) 14.91','Last 3 Months (%) 11.63','Best Monthly Return (%) 47.74',"Worst Monthly Return (%) -45.95"],
-  }).go();
-
-  new TypeIt('#Risks', {
-    speed: 10,
-    startDelay: 2000,
-    waitUntilVisible: true,
-    strings: ["<span style='font-size: 50px;'>"+'Risk/Return'+"</span>",'Annualised Standard Deviation (%) N/A','Downside Deviation (%) N/A','Upside Deviation (%) N/A','Maximum Drawdown (%) N/A','Sharpe Ratio N/A','Sortino Ratio N/A','Percentage of Positive Months (%) N/A'],
-  }).go();
-
   new TypeIt("#Returns", {
     strings: "ANNUAL PERFORMANCE - <strong>TOTAL RETURN (%)</strong>",
     speed: 50,

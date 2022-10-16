@@ -20,10 +20,31 @@
      <div class="shadow-sm p-5 mb-3 mt-1 container2">
       <div class="row mb-2">
         <div class="col-md-6">
-        <h2 class="p-3 mb-2 mt-5"><span id="Statistics"></span></h2> 
+        <h1 class="p-3 mb-2 mt-5">Strategies and Statistics</h1> 
+        <ul style="list-style: none;">
+          <li>Primary Strategy: Global Macro</li>
+          <li>Secondary Strategy: Trend Following</li>
+        </ul>
+        <ul style="list-style: none;">
+          <li>Annualised Return (%) N/A</li>
+          <li>2022 Return (%) N/A</li>
+          <li>2021 Return (%) 14.91</li>
+          <li>Last 3 Months (%) 11.63</li>
+          <li>Best Monthly Return (%) 47.74</li>
+          <li>Worst Monthly Return (%) -45.95</li>
+        </ul>
         </div>
         <div class="col-md-6">
-          <h2 class="p-3 mb-2 mt-5"><span id="Risks"></span></h2> 
+          <h1 class="p-3 mb-2 mt-5">Risk/Return</h1>
+        <ul style="list-style: none;">
+          <li>Annualised Standard Deviation (%) N/A</li>
+          <li>Downside Deviation (%) N/A</li>
+          <li>Upside Deviation (%) N/A</li>
+          <li>Maximum Drawdown (%) N/A</li>
+          <li>Sharpe Ratio N/A</li>
+          <li>Sortino Ratio N/A</li>
+          <li>Percentage of Positive Months (%) N/A</li>
+        </ul> 
         </div>
       </div>
       </div>
