@@ -55,7 +55,6 @@
       <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
           <script src="js/quotes.js"></script>
-          <script type="text/javascript" src="http://feeds.financialcontent.com/JSQuote?Ticker=COPPER+EWS+aud/usd" ></script>
         </div>
         <div class="p-4">
           <h4 class="fst-italic">Archives</h4>
