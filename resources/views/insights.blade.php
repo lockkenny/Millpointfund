@@ -53,7 +53,7 @@
 
     <div class="col-md-4" id='archives'>
       <div class="position-sticky" style="top: 2rem;">
-        <div class="p-4 mb-3 bg-light rounded">
+        <div class="p-4 mb-3 bg-light rounded" id='quotes'>
           <script src="js/quotes.js"></script>
         </div>
         <div class="p-4">

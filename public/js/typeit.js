@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   new TypeIt('#AboutTitle', {
     speed: 10,
     startDelay: 2000,
-    strings: ["<span style='font-size: 250%;'>"+'What we do'+"</span>","\n","Mill Point Fund manages derivatives using technical analysis to have above-average returns during unpredictable market conditions. This displays my performance and insights."],
+    strings: ["Mill Point Fund manages derivatives using technical analysis to have above-average returns during unpredictable market conditions. This displays my performance and insights."],
     afterComplete: function (instance) {
       instance.destroy();
     }
