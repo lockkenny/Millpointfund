@@ -30,10 +30,11 @@ strong {
 
 /* Height for devices larger than 576px */
 @media (min-width: 992px) {
-        #intro1 {
-          margin-top: -58.59px;
-        }
+       
     }
+
+
+
 #AboutOpt{
     font-size: 150%;
 }
