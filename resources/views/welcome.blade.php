@@ -27,8 +27,8 @@
         </ul>
         <ul style="list-style: none;">
           <li>Annualised Return (%) N/A</li>
-          <li>2022 Return (%) N/A</li>
-          <li>2021 Return (%) 14.91</li>
+          <li>2022 Return (%) 28.30</li>
+          <li>2021 Return (%) 13.08</li>
           <li>Last 3 Months (%) 11.63</li>
           <li>Best Monthly Return (%) 47.74</li>
           <li>Worst Monthly Return (%) -45.95</li>
