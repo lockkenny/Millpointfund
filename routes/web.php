@@ -19,9 +19,10 @@ Route::get('/operations', [WebController::class, 'operations']);
 Route::get('/insights', [WebController::class, 'insights']);
 Route::get('/terms', [WebController::class, 'terms']);
 
+
 Route::get('sitemap', function(){
 
-    SitemapGenerator::create('https://millpointfund.com')->writeToFile('sitemap.xml');
+    SitemapGenerator::create('http://127.0.0.1')->writeToFile('sitemap.xml');
     return 'sitemap created';
 });
 
