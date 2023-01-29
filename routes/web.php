@@ -19,3 +19,5 @@ Route::get('/operations', [WebController::class, 'operations']);
 Route::get('/insights', [WebController::class, 'insights']);
 Route::get('/terms', [WebController::class, 'terms']);
 
+//Sitemap Routes
+Route::get('/sitemap.xml', [SitemapController::class, 'index'])->name('sitemap.index');
