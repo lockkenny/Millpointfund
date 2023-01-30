@@ -1,1 +1,1 @@
-<span class="text-muted"><p><small>© 2023 Mill Point Fund, LP. All rights reserved.&nbsp;<a href="/terms" class="text-info">Terms of Use</a>&nbsp;<a target="_blank" href="/sitemap.xml" class="text-muted" >Sitemap</a><p><small></span>
+<span class="text-muted"><p><small>© 2023 Mill Point Fund, LP. All rights reserved.&nbsp;<a href="/terms" class="text-info">Terms of Use</a>&nbsp;<a target="_blank" href="/sitemap.txt" class="text-muted" >Sitemap</a><p><small></span>
