@@ -1,19 +1,21 @@
 {
     "version": 2,
     "functions": {
-        "api/*.php": { "runtime": "vercel-php@0.4.0" }
+        "api/index.php": { "runtime": "vercel-php@0.5.2" }
     },
-    
     "routes": [{
+        "src": "/(images|css|js|vendor|assets|build)/(.*)",
+        "dest": "public/$1/$2"
+    },
+    {
         "src": "/(.*)",
         "dest": "/api/index.php"
     }],
-
     "env": {
         "APP_NAME": "Mill Point",
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://millpointfund.vercel.app",
+        "APP_URL": "https://millpointfund.com",
         "VERCEL_DEMO_MODE": "true",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",

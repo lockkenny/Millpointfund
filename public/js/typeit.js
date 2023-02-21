@@ -1,44 +1,13 @@
 document.addEventListener("DOMContentLoaded", function () {
-  new TypeIt("#AboutTitle", {
-    strings: 'What we do',
-    speed: 50,
-    startDelay: 900,
-    waitUntilVisible: true,
+  new TypeIt('#AboutTitle', {
+    speed: 10,
+    startDelay: 2000,
+    strings: ["Mill Point Fund manages derivatives using technical analysis to have above-average returns during unpredictable market conditions. This displays my performance and insights."],
     afterComplete: function (instance) {
       instance.destroy();
     }
   })
   .go();
-
-  new TypeIt('#AboutTitle1', {
-    speed: 10,
-    startDelay: 2000,
-    strings: 'Mill Point Fund focuses on managed futures using technical analysis to have above average returns during unpredictable market conditions.',
-    afterComplete: (instance) => {
-      instance.destroy();
-      new TypeIt('#AboutTitle2', {
-        speed: 10,
-        startDelay: 400,
-        strings: ['Main Strategy: Global Macro','Secondary Strategy: Trend Following'],
-        afterComplete: (instance) => {
-          instance.destroy();
-          new TypeIt('#Statistics1', {
-            speed: 10,
-            startDelay: 400,
-            strings: 'Statistics',
-            afterComplete: (instance) => {
-              instance.destroy();
-              new TypeIt('#Statistics2', {
-                speed: 10,
-                startDelay: 400,
-                strings: ['Annualised Return (%) N/A','2022 Return (%) N/A','2021 Return (%) 14.91','Last 3 Months (%) N/A','Best Monthly Return (%) 47.74',"Worst Monthly Return (%) -45.95"],
-              }).go();
-            }
-          }).go();
-        }
-      }).go();
-    }
-  }).go();
 
   new TypeIt("#Returns", {
     strings: "ANNUAL PERFORMANCE - <strong>TOTAL RETURN (%)</strong>",

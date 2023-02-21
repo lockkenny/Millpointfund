@@ -12,40 +12,29 @@ strong {
     color:gray;
 }
 
-#AboutTitle{
-    font-size: 250%;
-    position: relative;
-}
-
-/* Info in the About Video */
-#AboutTitle1 {
-    position: relative;
-}
-
-#AboutTitle2{
-    position: relative;
-}
-
-#Statistics1{
-    position: relative;
-}
-
-#Statistics2{
-    position: relative;
+/* Text over Video */
+#AboutTitle {
+    position: absolute; 
 }
 
 .intro1{
-    padding-bottom: 30%;
+    padding-bottom: 400px;
     color:azure;
     
 }
 
+.container1 .container2 .container3 .container4 .container5{
+    padding-top:30%;
+    padding-bottom:30%; 
+}
+
 /* Height for devices larger than 576px */
 @media (min-width: 992px) {
-        #intro {
-          margin-top: -58.59px;
-        }
+       
     }
+
+
+
 #AboutOpt{
     font-size: 150%;
 }
@@ -61,7 +50,7 @@ strong {
 }
 
 #insights1{
-    position: relative;
+    position: absolute;
     padding-top:30%;  
     color:black;
 }
@@ -97,13 +86,29 @@ video {
 }
 
 #insightsvid video{
-    position: absolute;
-    height: 400px;
+    height: 500px;
     filter: brightness(50%);
 }
 
   
   #archives a:hover { text-shadow: 0 0 5px; }
+  a:link { text-decoration: none; }
 
+  /* Disclaimer Modal */
+  .modal-sheet .modal-dialog {
+    width: 380px;
+    transition: bottom .75s ease-in-out;
+  }
+  .modal-sheet .modal-footer {
+    padding-bottom: 2rem;
+  }
+  
+  .modal-alert .modal-dialog {
+    width: 380px;
+  }
+  
+  .modal-tour .modal-dialog {
+    width: 380px;
+  }
 
 
