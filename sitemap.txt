@@ -1,0 +1,11 @@
+<urlset xmlns="https://www.millpointfund.com/public/">
+  <url>
+      <loc>https://millpointfund.com/</loc>
+  </url>
+  <url>
+      <loc>https://millpointfund.com/insights</loc>
+  </url>
+    <url>
+      <loc>https://millpointfund.com/terms</loc>
+  </url>
+</urlset>
