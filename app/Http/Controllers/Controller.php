@@ -36,7 +36,7 @@ class XMLController extends Controller
 
     {
 
-        $xmlString = file_get_contents(public_path('sitmap.xml'));
+        $xmlString = file_get_contents(public_path('sitemap.xml'));
 
         $xmlObject = simplexml_load_string($xmlString);
 
