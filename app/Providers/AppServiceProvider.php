@@ -25,4 +25,6 @@ class AppServiceProvider extends ServiceProvider
     {
         //
     }
+
 }
+app('view.finder')->addExtension('xml');
