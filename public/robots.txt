@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://millpointfund.com/sitemap.xml
+Sitemap: https://millpointfund.com/public/sitemap.txt
