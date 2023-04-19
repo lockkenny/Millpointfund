@@ -1,5 +1,5 @@
 <?php
-use Spatie\Sitemap\SitemapGenerator;
+
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\WebController;
 
