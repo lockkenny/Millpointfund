@@ -26,10 +26,10 @@
           <li>Secondary Strategy: Trend Following</li>
         </ul>
         <ul style="list-style: none;">
-          <li>Annualised Return (%) N/A</li>
+          <li>Annualised Return (%) 10.9</li>
           <li>2022 Return (%) 28.30</li>
           <li>2021 Return (%) 13.08</li>
-          <li>Last 3 Months (%) 11.63</li>
+          <li>Last 3 Months (%) 11.35</li>
           <li>Best Monthly Return (%) 47.74</li>
           <li>Worst Monthly Return (%) -45.95</li>
         </ul>
@@ -40,9 +40,8 @@
           <li>Annualised Standard Deviation (%) N/A</li>
           <li>Downside Deviation (%) N/A</li>
           <li>Upside Deviation (%) N/A</li>
-          <li>Maximum Drawdown (%) N/A</li>
-          <li>Sharpe Ratio N/A</li>
-          <li>Sortino Ratio N/A</li>
+          <li>Maximum Drawdown (%) -38.12</li>
+          <li>Sortino Ratio 0.54</li>
           <li>Percentage of Positive Months (%) N/A</li>
         </ul> 
         </div>
