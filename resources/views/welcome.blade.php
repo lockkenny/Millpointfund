@@ -37,10 +37,8 @@
         <div class="col-md-6">
           <h1 class="p-3 mb-2 mt-5">Risk/Return</h1>
         <ul style="list-style: none;">
-          <li>Annualised Standard Deviation (%) N/A</li>
-          <li>Downside Deviation (%) N/A</li>
-          <li>Upside Deviation (%) N/A</li>
           <li>Maximum Drawdown (%) -38.12</li>
+          <li>Sharpe Ratio 0.33</li>
           <li>Sortino Ratio 0.54</li>
           <li>Percentage of Positive Months (%) N/A</li>
         </ul> 
